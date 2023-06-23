@@ -22,6 +22,12 @@ pip install -r requirements.txt
 
 Open the file `etf_analyzer.ipynb` in a Jupyter notebook/lab environment to interact with the analysis.
 
+OR,
+
+Open the file as a webpage by running `voila etf_analyzer.ipynb`: expected output is demonstrated below:
+
+![Screenshot of Analysis](voila_screenshot.png?raw=true "Screenshot of Analysis")
+
 ---
 
 ## Contributors

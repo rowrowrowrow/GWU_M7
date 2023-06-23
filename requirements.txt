@@ -2,3 +2,4 @@ hvplot==0.8.2
 numpy==1.23.5
 pandas==1.5.3
 SQLAlchemy==1.4.39
+voila==0.4.0
